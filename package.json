@@ -1,0 +1,19 @@
+{
+  "name": "learn-npm",
+  "version": "1.0.0",
+  "description": "learn npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wccalvin/learn-npm.git"
+  },
+  "author": "Clayton William",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wccalvin/learn-npm/issues"
+  },
+  "homepage": "https://github.com/wccalvin/learn-npm#readme"
+}
